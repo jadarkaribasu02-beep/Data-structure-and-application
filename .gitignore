@@ -1,0 +1,14 @@
+# Compiled C programs and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Generated practice output
+practice.txt
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
