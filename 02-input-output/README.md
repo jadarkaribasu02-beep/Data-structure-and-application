@@ -1,10 +1,13 @@
-# Input Output
+# 02 - Input and Output (C)
 
-Programs and notes I create while practising input output in C.
+20 beginner programs covering `printf`, `scanf`, variables, data types and arithmetic.
 
-## Practice ideas
+## Compile and run
+Open a terminal in this folder, then run:
 
-- Understand the example program.
-- Change the values and predict the output.
-- Add more exercises with descriptive file names.
-- Write down errors and what fixed them.
+```powershell
+gcc 02_sum_two.c -o 02_sum_two.exe
+.\02_sum_two.exe
+```
+
+From the repository root, use quoted paths such as `gcc ".\02-input-output\02_sum_two.c" -o ".\02-input-output\02_sum_two.exe"`.
