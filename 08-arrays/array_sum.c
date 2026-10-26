@@ -1,4 +1,4 @@
-#include <stdio.h>
+    #include <stdio.h>
 
 int main(void) {
     int values[] = {10, 20, 30, 40, 50};
